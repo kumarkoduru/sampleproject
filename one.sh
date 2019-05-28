@@ -1,4 +1,3 @@
 hippo
 java
 docker
-jenkins
